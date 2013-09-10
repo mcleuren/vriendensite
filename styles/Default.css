@@ -2,11 +2,16 @@
 {
     font-family:Verdana;
     font-size:small;
-   
+   font-weight:bold;
 }
 
 h1
 {
     color:silver;
+}
+
+h3
+{
+    color-rendering:green;
 }
 
